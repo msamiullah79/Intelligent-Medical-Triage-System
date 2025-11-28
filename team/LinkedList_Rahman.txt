@@ -1,0 +1,1 @@
+LinkedList Rahman connects all patient visits into a continuous history.
