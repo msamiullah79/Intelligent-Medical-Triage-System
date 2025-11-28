@@ -1,0 +1,1 @@
+Heap Sami prioritizes the most urgent patient in the triage.
