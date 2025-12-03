@@ -5,3 +5,4 @@
 | Search patient by ID              | Hash Table         | Fast lookup for patient information using ID |
 | Organize patient records by ID    | AVL Tree           | Keeps records balanced and sorted for quick search and insertion |
 | Load ML model for priority        | Array              | Stores weights and features for efficient calculations |
+
